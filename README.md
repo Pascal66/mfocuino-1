@@ -3,6 +3,7 @@ Attempt to make Arduino and seeesStudio pn532 i2c to work.
 
 First sketch for arduino is working well :
 
+```
 nfc-scan-device -v
 debug   libnfc.config   key: [allow_autoscan], value: [true]
 debug   libnfc.config   key: [device.name], value: [Duino532I2C]
@@ -288,3 +289,4 @@ debug   libnfc.bus.uart_win32   ReadFile
 debug   libnfc.bus.uart_win32   RX: 14 00
 debug   libnfc.driver.pn532_uart        Check btDCS  14
 debug   libnfc.driver.pn532_uart        Check Postamble  00
+```
