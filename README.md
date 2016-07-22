@@ -1,5 +1,5 @@
 # mfocuino
-Attempt to make Arduino and [seeedStudio pn532 i2c](https://www.seeedstudio.com/Grove-NFC-p-1804.html)to work.
+Attempt to make Arduino and [seeedStudio pn532 i2c](https://www.seeedstudio.com/Grove-NFC-p-1804.html) to work.
 
 First sketch for arduino is working well :
 
